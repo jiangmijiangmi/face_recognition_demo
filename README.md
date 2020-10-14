@@ -1,0 +1,2 @@
+# face_recognition_demo
+简单的face_recognition_demo，cpu运行有点慢。
